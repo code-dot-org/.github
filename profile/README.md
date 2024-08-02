@@ -45,7 +45,7 @@ Our 30+ engineering team shares on-call responsibilities. Each engineer covers a
 
 Yes! In 2019, shortly before the pandemic, Code.org became a remote-first organization. Today, we have engineers in every US time zone and accommodate working hours accordingly. Most of our meetings happen between the hours of 10am and 3pm PT.
 
-We also recognize the value of in-person time, and every quarter we get together in person, typically in Seattle. Two of these events (we call them Kick-off week and “Codechella”) bring everyone in the organization together in January and June - and the engineering and product teams meet separately in April and October.
+We also recognize the value of in-person time, and a few times per year we get together in person, typically in Seattle. Some of these events (like our summer “Codechella” meetup) bring everyone in the organization together. At other times, smaller departments and teams will gather for more focused gatherings.
 
 We strongly believe in spending time with our students and teachers, so many of these in-person events include trips into schools and classrooms to gather feedback or play-test our products.
 
