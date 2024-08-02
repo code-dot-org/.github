@@ -11,7 +11,7 @@ Learn more at [code.org/about/careers](https://code.org/about/careers).
 
 This is (most of) us at our in-person get together during the summer of 2023! This crowd is divided into four sub-teams within our engineering team who work together to build and serve the platform for all our students and teachers.
 
-If you are interested in applying for one of our roles, we'd love to hear from you! You can find a list of open positions on our [Careers page]((https://code.org/about/careers)).
+If you are interested in applying for one of our roles, we'd love to hear from you! You can find a list of open positions on our [Careers page](https://code.org/about/careers).
 
 The engineering team at Code.org is divided into four sub-teams that build and support different areas of our platform.
 
