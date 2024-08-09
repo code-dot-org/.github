@@ -9,7 +9,7 @@ Learn more at [code.org/about/careers](https://code.org/about/careers).
 
 ![Engineering Team](eng_team.jpg)
 
-This is (most of) us at our in-person get together during the summer of 2023! This crowd is divided into four sub-teams within our engineering team who work together to build and serve the platform for all our students and teachers.
+This is (most of) us at our in-person get together during the summer of 2023! This crowd works together to build and serve the platform for all our students and teachers.
 
 If you are interested in applying for one of our roles, we'd love to hear from you! You can find a list of open positions on our [Careers page](https://code.org/about/careers).
 
@@ -43,7 +43,7 @@ Our 30+ engineering team shares on-call responsibilities. Each engineer covers a
 
 #### 🏡 Are you a remote-friendly or work from home organization?
 
-Yes! In 2019, shortly before the pandemic, Code.org became a remote-first organization. Today, we have engineers in every US time zone and accommodate working hours accordingly. Most of our meetings happen between the hours of 10am and 3pm PT.
+Yes! In 2019, shortly before the pandemic, Code.org became a remote-first organization. Today, we have engineers in every US time zone and accommodate working hours accordingly. Most of our meetings happen between the hours of 9am and 2pm PT.
 
 We also recognize the value of in-person time, and a few times per year we get together in person, typically in Seattle. Some of these events (like our summer “Codechella” meetup) bring everyone in the organization together. At other times, smaller departments and teams will gather for more focused gatherings.
 
